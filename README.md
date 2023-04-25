@@ -1,1 +1,1 @@
-# informatica-reposit-rio
+# informatica-repositorio
