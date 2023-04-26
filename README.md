@@ -1,4 +1,4 @@
-# informatica-repositório :wink:
+# informatica-repositório : :smile:
 po|srum master|scrum team
 :--: | --: |---
-Diego|
+
