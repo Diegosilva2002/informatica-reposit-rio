@@ -1,4 +1,7 @@
-# informatica-repositório : :smile:
-po|srum master|scrum team
-:--: | --: |---
-
+# Informatica-repositório : :smile:
+PO|Scrum Master|Scrum Team
+:--: | :---: | :---:
+José | Camilly | Diego
+| | | Daniel
+| | | Douglas
+| | | Maria
